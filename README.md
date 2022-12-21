@@ -1,2 +1,2 @@
-# fsvidal.github.io
-About vishalxl
+# fs-vidal.github.io
+About fs-vidal
